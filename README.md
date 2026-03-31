@@ -25,7 +25,7 @@ The scripts in this repository are described below
 ## Citing this package
 If you make use of this code or the method in a different implementation, please acknowledge our previous work ! You cite the following paper:
 
-[Dubois-Dognon, B., Nishida, K.,(20XX)](URL) "Reconstruction of the autocorrelation function from segmented data and its application to the Earth’s seismic hum", Geophysical Journal International, ggacXXX, doi:?.
+[B Dubois-Dognon, K Nishida,](URL) "Reconstruction of the autocorrelation function from segmented data and its application to the Earth’s seismic hum, Geophysical Journal International, Volume 243, Issue 1, October 2025, ggaf291, https://doi.org/10.1093/gji/ggaf291 "
 
 You can cite in the following way: "We used the auto-correlation segmentation method to process the data, which is described in Dubois-Dognon and Nishdia (2025)."
 
